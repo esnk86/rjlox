@@ -1,4 +1,4 @@
-# rjlox
+# rjlox 🦀️ ☕️ 🔒️
 
 Lox is the scripting language described and implemented (twice) in the book Crafting Interpreters by Robert Nystrom.
 
